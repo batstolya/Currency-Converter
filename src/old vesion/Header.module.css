@@ -1,0 +1,31 @@
+.header {
+    background-color: azure;
+
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header p {
+    font-size: 20px;
+    /* font-weight: 700; */
+}
+
+.header-actual__exchange {
+    font-size: 20px;
+    font-weight: 700;
+
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+.header-actual__exchange img {
+    width: 70px;
+}

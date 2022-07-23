@@ -1,0 +1,30 @@
+.header {
+     background-color: azure;
+     width: 100%;
+    p {
+        font-size: 20px;
+    }
+    &-actual__exchange {
+        font-size: 20px;
+        font-weight: 700;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    
+        justify-content: space-between;
+    
+    }
+    &-actual__exchange img {
+        width: 70px;
+    }
+    
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    padding: 0px 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
