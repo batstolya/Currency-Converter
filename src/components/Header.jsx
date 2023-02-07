@@ -21,7 +21,6 @@ const Header = (props) => {
             <p>1 USD = {MathRoundTwoDigits(props.usd)}</p>
             <p>1 EUR = {MathRoundTwoDigits(props.eur)}</p>
           </div>
-            {/* <span>Rate at this time {props.date} {props.todayTimes}</span> */}
         </div>
       </div>
     </div>

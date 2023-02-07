@@ -117,8 +117,6 @@ const Conversion = (props) => {
   const changeValue = () => {
     setSelected(selected2);
     setSelected2(selected);
-    // setInputValueFirst(inputValueSecond)
-    // setInputValueSecond(inputValueFirst)
   };
 
   return (
